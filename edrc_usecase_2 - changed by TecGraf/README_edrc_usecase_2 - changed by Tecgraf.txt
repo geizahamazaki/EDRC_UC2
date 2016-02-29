@@ -1,17 +1,21 @@
-﻿edrc_usecase_2 - changed by TecGraf
+﻿
+Some files presented at (EDRC_UC2)(https://github.com/dpricetq/iso15926) were adapted to be loaded at Virtuoso (Virtuoso Documentation.pdf)
+and allow some SPARQL queries. These files are:
+  - EDRC_UC2_RDL_Extension_tec.rdf
+  - pressure_transmitter_rfq_1_reply_tec.ttl
+  - pressure_transmitter_rfq_1_tec.ttl
+  - pressure_transmitter_rfq_10_reply_tec.ttl
+  - pressure_transmitter_rfq_10_tec.ttl
 
-The files :
-EDRC_UC2_RDL_Extension_tec.rdf
-pressure_transmitter_rfq_1_reply_tec.ttl
-pressure_transmitter_rfq_1_tec.ttl
-pressure_transmitter_rfq_10_reply_tec.ttl
-pressure_transmitter_rfq_10_tec.ttl
+The modifications are explained at "UC2_SPARQL_Examples.pdf" and "Report EDRC Use Case 2.pdf".
+This work is the result of the Tegraf Institute/PUC-Rio researches.
 
-Have small
+In case you have any doubts, contact geizahamazaki@gmail.com
+
+
+Bellow is showed the text of the original README_use_case_2.txt
 
 Report EDRC Use Case 2
-
-
 
 * EDRC Use Case 2 AppendixE–SampleData.ttl
 
@@ -44,3 +48,4 @@ Only basic information is provided for new entities.
 
 * Emerson_Catalogue.rdf
 Dummy corporate RDL with basic instrument catalogue data (IDs only).
+

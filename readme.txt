@@ -1,24 +1,14 @@
-The documents 
+The documents, in this directory, are the result of the Tegraf Institute/PUC-Rio researches about the 
+Capturing Equipment Data Requirements Using ISO 15926 and Assessing Conformance - User Case 2(EDRC_UC2)(https://github.com/dpricetq/iso15926)
 
-1-UC2_Understanding and Application - This document is intend to
- be less technical. For more technical issues, please check the technical document “TecGraf_SPARQL_Examples.pdf” and "TecGraf Report about the study of EDRC Use Case 2.pdf"
+The document "UC2_Understanding and Application.pdf"  describes the adoption of ISO15926 standard for oil companies’ data integration,
+ showing the main advantages through a real case study. 
 
-2-Tecgraph_SPARQL_Examples - SPARQLs Examples
+The "Report EDRC Use Case 2.pdf" is a more technical document about the implementation of the User case 2. 
+It has some graphs describing the structures of the used templates, the revision of some little problems 
+found at the User Case2 (https://github.com/dpricetq/iso15926) and the formalization in FOL of the Objects Declarations and Templates Patterns presented at
+"EDRC Use Case 2 Technical Documentation.doc (http://techinvestlab.ru/EDRCDemo)
 
-3-Report EDRC Use Case 2 - It contains some graphs  describing the structures of the templates and some little problems found at the UC2.
+The document "UC2_SPARQL_Examples.pdf" describes the process used to test the EDRC UC2 with answering real SPARQL queries
 
-
-
-.15926 Editor v1.5beta release 3
-(c) TechInvestLab.ru, 2014
-
-Tool for browsing and editing ISO 15926 data in many different formats.
-
-Launch editor\dot15926.exe to run the program.
-
-See manual in documentation\ folder for details. Documentation for 1.5beta is not complete yet, see documentation for 1.4 instead. Some newest features are described in the dot15926AdapterSample.pdf file.
-
-
-
-dot15926@gmail.com
-https://github.com/geizahamazaki/EDRC_UC2
+In case you have any doubts, contact geizahamazaki@gmail.com
